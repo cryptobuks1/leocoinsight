@@ -6,7 +6,7 @@
     "name": "LEOcoin-devteam",
     "email": "support@LEOcoin.org"
   },
-  "repository": "https://github.com/Leocoin-project/leocoinsight.git",
+  "repository": "https://github.com/newmight2015/leocoinsight.git",
   "contributors": [
     {
       "name": "Support",
@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Leocoin-project/leocoinsight/issues"
+    "url": "https://github.com/newmight2015/leocoinsight/issues"
   },
-  "homepage": "https://github.com/Leocoin-project/leocoinsight",
+  "homepage": "https://github.com/newmight2015/leocoinsight",
   "license": "MIT",
   "keywords": [
     "LEOcoinsight",
@@ -54,7 +54,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/LEOcoinsight-api"
   },
     "dependencies": {
-    "insight-bitcore-api": "https://github.com/Leocoin-project/leocoinsight-api.git"
+    "insight-bitcore-api": "https://github.com/newmight2015/leocoinsight-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",

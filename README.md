@@ -34,16 +34,16 @@
 
     $ INSIGHT_NETWORK=livenet BITCOIND_USER=user BITCOIND_PASS=pass INSIGHT_PUBLIC_PATH=public  npm start
   or use start.sh for start
-    **export INSIGHT_NETWORK=livenet
-    **export BITCOIND_USER=user
-    **export BITCOIND_PASS=123
-    **export BITCOIND_P2P_PORT=port
-    **export BITCOIND_DATADIR=~/.yourcoin
-    **export BITCOIND_PORT=rpcport
-    **export NODE_ENV=production
-    **export INSIGHT_PORT=3000
-    **export INSIGHT_PUBLIC_PATH=public
-    **export INSIGHT_FORCE_RPC_SYNC=1
-  Then open a browser and go to:
+  ```   export INSIGHT_NETWORK=livenet ``` 
+  ```   export BITCOIND_USER=user ``` 
+  ```   export BITCOIND_PASS=123 ``` 
+  ```   export BITCOIND_P2P_PORT=port ``` 
+  ```   export BITCOIND_DATADIR=~/.yourcoin ``` 
+  ```   export BITCOIND_PORT=rpcport ``` 
+  ```   export NODE_ENV=production ``` 
+  ```   export INSIGHT_PORT=3000 ``` 
+  ```   export INSIGHT_PUBLIC_PATH=public ``` 
+  ```   export INSIGHT_FORCE_RPC_SYNC=1 ``` 
+  Then open a browser and go to:
 
     http://localhost:3030
